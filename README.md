@@ -49,6 +49,9 @@ In this study, we used two models: YOLOv8n for the training model and SAM for ps
 #### KimSangSu: Research, Data Loading, Preprocessing
 #### KimJiHoon : Research, Preprocessing
 #### SongInSeop : Research, Preprocessing <br>
+
+You can check the specific contributions [**here.**](https://github.com/YunSeoHwan/DL_Programming_TeamProject/graphs/contributors)   
+
 <br><br>
 # Result & Suggestion
 ## Experimental Results
